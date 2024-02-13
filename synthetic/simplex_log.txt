@@ -1,0 +1,51 @@
+
+	Executed on time is 2023-08-27 13:56:53.117370
+Finished successfully at 2023-08-27 13:56:53.121370Total time = 0.006004
+	Executed on time is 2023-08-27 13:57:29.242746
+
+	Executed on time is 2023-08-27 13:57:46.974366
+
+	Executed on time is 2023-08-27 13:57:51.395179
+Tries: 10, series = [2, 3]
+Finished successfully at 2023-08-27 13:59:07.820479Total time = 76.4253
+	Executed on time is 2023-09-01 20:13:45.516370
+Tries: 10, series = [5]
+
+	Executed on time is 2023-09-01 20:14:51.231805
+Tries: 10, series = [5]
+Finished successfully at 2023-09-01 20:15:50.064750Total time = 58.832945
+	Executed on time is 2023-09-10 16:45:30.261529
+Tries: 10, series = [5]
+
+	Executed on time is 2023-09-10 16:46:57.859667
+Tries: 10, series = [5]
+
+	Executed on time is 2023-09-10 16:47:14.610398
+Tries: 10, series = [10]
+
+	Executed on time is 2023-09-10 16:47:25.847597
+Tries: 10, series = [10]
+Finished successfully at 2023-09-10 16:50:19.610399Total time = 173.762802
+	Executed on time is 2023-09-10 17:27:16.878589
+Tries: 10, series = [10]
+Finished successfully at 2023-09-10 17:28:07.900444Total time = 51.023851
+	Executed on time is 2023-09-10 18:20:10.875223
+Tries: 10, series = [11]
+Finished successfully at 2023-09-10 18:22:55.022814Total time = 164.153575
+	Executed on time is 2023-09-17 19:05:59.352226
+Tries: 15, series = [12]
+
+	Executed on time is 2023-09-17 19:15:55.480849
+Tries: 15, series = [12]
+Finished successfully at 2023-09-17 19:18:54.895929Total time = 179.42008
+
+Executed on time is 2023-09-28 19:02:45.173155
+Tries: 15, series = [12]
+Finished successfully at 2023-09-28 19:04:09.733937
+Total time = 84.565782
+
+
+Executed on time is 2023-10-22 20:25:12.010971
+Tries: 15, series = [22]
+Finished successfully at 2023-10-22 20:30:36.392771
+Total time = 324.38259

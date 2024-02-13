@@ -1,0 +1,127 @@
+Time is 2023-08-13 14:40:28.177703
+Tries: 10, epochs: 20, series = [0]
+Time is 2023-08-13 15:13:49.397880
+Tries: 10, epochs: 20, series = [0, 1]
+Time is 2023-08-13 15:26:28.232666
+Tries: 10, epochs: 20, series = [0, 1]
+Time is 2023-08-13 15:27:09.756816
+Tries: 10, epochs: 20, series = [0, 1]
+Time is 2023-08-13 15:34:40.208975
+Tries: 10, epochs: 20, series = [0, 1]
+Successfully finished at 2023-08-13 15:39:28.639023
+
+Time is 2023-08-13 15:55:17.171513
+Tries: 10, epochs: 20, series = [0, 1]
+Successfully finished at 2023-08-13 15:59:16.508531
+
+Time is 2023-08-18 13:51:32.823720
+Tries: 10, epochs: 20, series = [0, 1]
+Successfully finished at 2023-08-18 13:55:04.676997
+
+Time is 2023-08-18 13:55:26.385598
+Tries: 10, epochs: 60, series = [0, 1]
+Successfully finished at 2023-08-18 14:02:40.612857
+
+Time is 2023-08-18 18:46:29.173561
+Tries: 10, epochs: 60, series = [2, 3]
+Time is 2023-08-18 18:46:59.104308
+Tries: 10, epochs: 60, series = [2, 3]
+Time is 2023-08-18 18:48:24.634408
+Tries: 10, epochs: 60, series = [2, 3]
+Time is 2023-08-18 18:55:51.900933
+Tries: 10, epochs: 60, series = [2, 3]
+Successfully finished at 2023-08-18 19:09:33.418578
+
+
+	Executed on time is 2023-09-01 20:05:55.934732
+Tries: 10, epochs: 60, series = [5]
+Data file is data_new.csvFinished successfully at 2023-09-01 20:10:20.094819Total time = 264.160087
+	Executed on time is 2023-09-10 16:27:20.886509
+Tries: 10, epochs: 50, series = [10]
+Data file is data_new.csvFinished successfully at 2023-09-10 16:38:15.828448Total time = 654.949017
+	Executed on time is 2023-09-10 18:04:37.973207
+Tries: 10, epochs: 25, series = [11]
+Data file is data_new.csvFinished successfully at 2023-09-10 18:19:06.237332Total time = 868.266163
+	Executed on time is 2023-09-17 18:48:41.062748
+Tries: 15, epochs: 30, series = [12]
+Data file is data_new_circles.csvNetwork configuration is [10, 10, 1]
+	Executed on time is 2023-09-17 18:55:39.431393
+Tries: 15, epochs: 30, series = [12]
+Data file is data_new_circles.csvNetwork configuration is [10, 10, 1]
+	Executed on time is 2023-09-17 18:58:57.496933
+Tries: 15, epochs: 30, series = [12]
+Data file is data_new_circles.csvNetwork configuration is [10, 10, 1]Finished successfully at 2023-09-17 19:03:33.825964Total time = 276.330032
+	Executed on time is 2023-09-17 19:09:33.543018
+Tries: 15, epochs: 30, series = [12]
+Data file is data_new_circles.csvNetwork configuration is [10, 10, 1]Finished successfully at 2023-09-17 19:15:09.556937Total time = 336.014926
+
+Executed on time is 2023-09-28 18:55:29.195088
+Tries: 15, epochs: 30, series = [12]
+Data file is data_new_circles.csv
+Network configuration is [6, 6, 1]
+Finished successfully at 2023-09-28 18:59:54.584909
+Total time = 265.389821
+
+
+Executed on time is 2023-10-15 18:25:57.512152
+Tries: 15, epochs: 40, series = [15]
+Data file is data_new_circles.csv
+Network configuration is [6, 6, 1]
+Finished successfully at 2023-10-15 18:31:01.495295
+Total time = 303.984144
+
+
+Executed on time is 2023-10-15 19:13:35.331083
+Tries: 15, epochs: 30, series = [16]
+Data file is data_new_circles.csv
+Network configuration is [6, 6, 1]
+
+
+Executed on time is 2023-10-15 19:13:54.189490
+Tries: 15, epochs: 30, series = [16]
+Data file is data_new_circles.csv
+Network configuration is [6, 6, 1]
+
+
+Executed on time is 2023-10-15 19:15:14.197328
+Tries: 15, epochs: 30, series = [16]
+Data file is data_new_circles.csv
+Network configuration is [6, 6, 1]
+Finished successfully at 2023-10-15 19:20:35.627662
+Total time = 321.430334
+
+
+Executed on time is 2023-10-15 20:38:25.929430
+Tries: 15, epochs: 30, series = [16]
+Data file is data_new_circles.csv
+Network configuration is [12, 12, 1]
+
+
+Executed on time is 2023-10-15 20:44:52.066010
+Tries: 15, epochs: 30, series = [17]
+Data file is data_new_circles.csv
+Network configuration is [12, 12, 1]
+Finished successfully at 2023-10-15 20:47:59.924246
+Total time = 187.859236
+
+
+Executed on time is 2023-10-15 20:55:47.825515
+Tries: 15, epochs: 30, series = [17]
+Data file is data_new_circles.csv
+Network configuration is [20, 20, 1]
+
+
+Executed on time is 2023-10-15 20:57:40.220014
+Tries: 15, epochs: 30, series = [17]
+Data file is data_new_circles.csv
+Network configuration is [20, 20, 1]
+Finished successfully at 2023-10-15 20:59:09.008939
+Total time = 88.788925
+
+
+Executed on time is 2023-10-22 20:02:21.039772
+Tries: 15, epochs: 80, series = [22]
+Data file is data_new_circles.csv
+Network configuration is [20, 20, 1]
+Finished successfully at 2023-10-22 20:08:56.628848
+Total time = 395.589076
